@@ -1,6 +1,6 @@
 ## { RAG app based on pdf base x Gemini }
 -------------------
-How to run
+# How to run it ?
 ```
 
 * git clone
@@ -11,5 +11,13 @@ How to run
 
 ```
 
-
 -------------------
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/33b95fcf-c058-4a81-8b45-b54bf00c81f6
+
